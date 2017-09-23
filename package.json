@@ -1,6 +1,6 @@
 {
   "name": "paglang",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Traductor de idioma",
   "main": "dist/src/paglang.js",
   "scripts": {
