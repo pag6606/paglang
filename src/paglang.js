@@ -1,4 +1,4 @@
-export default function paglang(str){
+export default function paglang(str) {
     let translation = str;
     //si la palabra termina en ar se le quitan dos utimos aracteres
     if(str.toLowerCase().endsWith("ar")){
