@@ -1,12 +1,12 @@
 # Paglang
 Idioma inventado para curso de fundamentos de js de Platzi
 ##  Descripción del idioma
-- si la palabra termina en ar se le quitan dos utimos caracteres
-- si la palabra inicia con z se le añade p al final
-- si la palabra tiene 10 o mas letras va guion al medio
-- si es palindromo  se intercala mayusuculas y minusculas 
+- Si la palabra termina en ar se le quitan dos utimos caracteres
+- Si la palabra inicia con z se le añade p al final
+- Si la palabra tiene 10 o mas letras va guion al medio
+- Si es palindromo  se intercala mayusuculas y minusculas 
 
-## Instlación 
+## Instalación 
  ```
 npm install paglang
  ```
