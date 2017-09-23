@@ -14,8 +14,8 @@ npm install paglang
  ## Uso
 ```
 import paglang form 'paglang'
-nuevloLenguaje("Programar") //Program
-console.log(nuevoLenguaje("sometemos")) // SoMeTeMoS
+paglang("Programar") //Program
+paglang("sometemos")) // SoMeTeMoS
 ```
 
 ## Creditos 
