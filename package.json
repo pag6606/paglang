@@ -2,9 +2,9 @@
   "name": "paglang",
   "version": "0.1.2",
   "description": "Traductor de idioma",
-  "main": "dist/src/paglang.js",
+  "main": "dist/src/nuevolenguaje.js",
   "scripts": {
-    "build": "babel src/paglang.js -d dist",
+    "build": "babel src/nuevolenguaje.js -d dist",
     "test": "mocha"
   },
   "repository": {
