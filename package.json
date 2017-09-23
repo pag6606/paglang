@@ -1,0 +1,30 @@
+{
+  "name": "paglang",
+  "version": "0.1.0",
+  "description": "Traductor de idioma",
+  "main": "dist/src/paglang.js",
+  "scripts": {
+    "build": "babel src/paglang.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pag6606/paglang.git"
+  },
+  "keywords": [
+    "javascript",
+    "pruebas"
+  ],
+  "author": "Paúl Alarcón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pag6606/paglang/issues"
+  },
+  "homepage": "https://github.com/pag6606/paglang#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
